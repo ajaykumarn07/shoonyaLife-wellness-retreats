@@ -1,3 +1,22 @@
+# Wellness Retreats
+
+A React application to explore wellness retreats with filtering, searching, and pagination functionalities.
+
+## Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone <repository-url>
+
+2. **Navigate into the project directory:**
+   cd wellness-retreats
+   
+3. **Install dependencies:**
+   npm install
+
+4. **Start the development server:**
+   npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
