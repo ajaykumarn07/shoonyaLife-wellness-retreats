@@ -1,0 +1,30 @@
+.retreat-card {
+  background-color: #e0d9cf;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: left;
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+
+.retreat-card:hover {
+  transform: scale(1.05);
+}
+
+.retreat-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+.retreat-card h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.retreat-card p {
+  font-size: 14px;
+  margin-bottom: 5px;
+}

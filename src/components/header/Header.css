@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  background-color: #1a2b47;
+  border-radius: 0px;
+}
+
+.header > h2 {
+  color: white;
+  padding: 20px;
+  font-size: 24px;
+}
