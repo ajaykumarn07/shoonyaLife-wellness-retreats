@@ -2,6 +2,10 @@
 
 A React application to explore wellness retreats with filtering, searching, and pagination functionalities.
 
+## Live Demo
+
+You can view the live demo of this project at [Wellness Retreats Live Demo](https://shoonya-life-wellness-retreats.vercel.app/).
+
 ## Setup
 
 1. **Clone the repository:**
